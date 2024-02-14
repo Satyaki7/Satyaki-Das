@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0px;
+  height : 100vh;
+  width: auto;
+  background-image: url(WebSite\ Under\ Construction.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
